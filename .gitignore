@@ -1,0 +1,5 @@
+App/node_modules/
+App/www/build/
+App/platforms/
+App/plugins/
+App/.DS_Store
