@@ -1,5 +1,18 @@
+# ionic
 App/node_modules/
 App/www/build/
 App/platforms/
 App/plugins/
 App/.DS_Store
+
+# eclipse
+Server/.metadata/
+Server/RemoteSystemsTempFiles/
+Server/Servers
+Server/money5-webapp/.apt_generated/
+Server/money5-webapp/target/
+Server/money5-webapp/.settings
+.classpath
+.factorypath
+.project
+.tern-project
